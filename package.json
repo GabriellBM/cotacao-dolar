@@ -1,0 +1,30 @@
+{
+  "name": "cotacao_dolar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "forever-monitor": "^1.7.1",
+    "get-json": "^1.0.1",
+    "http": "0.0.1-security",
+    "method-override": "^3.0.0",
+    "moment": "^2.24.0",
+    "morgan": "^1.9.1",
+    "node-fetch": "^2.6.1",
+    "nunjucks": "^3.2.0",
+    "override": "0.0.1",
+    "postman-runtime": "^7.18.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel Barros",
+  "license": "ISC"
+}
